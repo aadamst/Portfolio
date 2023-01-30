@@ -74,6 +74,11 @@ function borgirClose(menu) {
     darkSlider.setAttribute("borgir-mode", false);
 }
 
+function linkClose() {
+    const menu = document.querySelector(".borgir");
+    borgirClose(menu);
+}
+
 function titles() {
     heroTitle.classList.remove("pulse-animation");
     heroTitle.classList.add("pulse-animation");
