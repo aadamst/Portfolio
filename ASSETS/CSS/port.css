@@ -684,7 +684,7 @@ input[type="checkbox"]:hover ~ .check:before {
 
 .fade-in {
     opacity: 0;
-    transition: opacity 1.5s ease-out, transform 1.5s ease-out;
+    transition: opacity 1s ease-out, transform 1s ease-out;
 }
 
 .fade-in.appear {
@@ -693,7 +693,7 @@ input[type="checkbox"]:hover ~ .check:before {
 
 .from-bottom {
     transform: translateY(50px);
-    transition: opacity 1.5s ease-out, transform 1.5s ease-out;
+    transition: opacity 1s ease-out, transform 1s ease-out;
 }
 
 .from-bottom.appear {
@@ -709,31 +709,31 @@ input[type="checkbox"]:hover ~ .check:before {
 }
 
 .S-icon-flex:nth-child(3) {
-    transition-delay: 400ms;
+    transition-delay: 350ms;
 }
 
 .S-icon-flex:nth-child(4) {
-    transition-delay: 600ms;
+    transition-delay: 500ms;
 }
 
 .S-icon-flex:nth-child(5) {
-    transition-delay: 800ms;
+    transition-delay: 650ms;
 }
 
 .S-icon-flex:nth-child(6) {
-    transition-delay: 1000ms;
+    transition-delay: 800ms;
 }
 
 .S-icon-flex:nth-child(7) {
-    transition-delay: 1200ms;
+    transition-delay: 950ms;
 }
 
 .S-icon-flex:nth-child(8) {
-    transition-delay: 1400ms;
+    transition-delay: 1100ms;
 }
 
 .S-icon-flex:nth-child(9) {
-    transition-delay: 1600ms;
+    transition-delay: 1250ms;
 }
 
 
