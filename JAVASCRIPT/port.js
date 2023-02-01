@@ -84,7 +84,7 @@ function titles() {
     heroTitle.classList.add("pulse-animation");
     switch (titleCall) {
         case 0:
-            heroTitle.innerHTML = "Aspiring Junior Developer";
+            heroTitle.innerHTML = "Aspiring Software Developer";
             titleCall++;
             break;
         case 1:
